@@ -1,0 +1,31 @@
+.env
+.env.*
+!.env.example
+
+# Material del cliente: no va al repo
+/material/*
+!/material/LEEME.md
+*.zip
+
+# Next.js
+node_modules/
+.next/
+out/
+/build/
+/coverage/
+.vercel/
+next-env.d.ts
+*.tsbuildinfo
+*.pem
+
+# Capturas y pruebas
+/capturas/
+test-results/
+playwright-report/
+
+# Claude Code: lo personal de cada máquina
+.claude/settings.local.json
+/.claude/skills/
+
+.DS_Store
+*.log

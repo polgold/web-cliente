@@ -1,0 +1,800 @@
+{
+ "version": 1,
+ "fuente": "Datos de familias tomados de fonts.google.com/metadata/fonts",
+ "evitar": [
+  {
+   "familia": "Inter",
+   "motivo": "Default de medio internet"
+  },
+  {
+   "familia": "Geist",
+   "motivo": "Lo que trae el scaffold de Next"
+  },
+  {
+   "familia": "Geist Mono",
+   "motivo": "Lo que trae el scaffold de Next"
+  },
+  {
+   "familia": "Roboto",
+   "motivo": "Default de Android y de plantillas"
+  },
+  {
+   "familia": "Open Sans",
+   "motivo": "Default de plantillas"
+  },
+  {
+   "familia": "Poppins",
+   "motivo": "La geométrica de siempre"
+  },
+  {
+   "familia": "Montserrat",
+   "motivo": "Sobreusada en plantillas"
+  },
+  {
+   "familia": "Lato",
+   "motivo": "Sobreusada en plantillas"
+  },
+  {
+   "familia": "Nunito",
+   "motivo": "Sobreusada en plantillas"
+  },
+  {
+   "familia": "Space Grotesk",
+   "motivo": "El «look tech» de las landings generadas"
+  },
+  {
+   "familia": "Space Mono",
+   "motivo": "El «look tech» de las landings generadas"
+  },
+  {
+   "familia": "Fraunces",
+   "motivo": "El «buen gusto» por defecto de las herramientas de IA"
+  },
+  {
+   "familia": "Playfair Display",
+   "motivo": "El «elegante» de siempre; parece invitación de casamiento"
+  },
+  {
+   "familia": "Cormorant",
+   "motivo": "Muy repetida como «elegante»"
+  },
+  {
+   "familia": "Cormorant Garamond",
+   "motivo": "Muy repetida como «elegante»"
+  },
+  {
+   "familia": "Lora",
+   "motivo": "Muy repetida como serif por defecto"
+  },
+  {
+   "familia": "Crimson Text",
+   "motivo": "Muy repetida como serif por defecto"
+  },
+  {
+   "familia": "Crimson Pro",
+   "motivo": "Muy repetida como serif por defecto"
+  },
+  {
+   "familia": "Newsreader",
+   "motivo": "Muy repetida como serif por defecto"
+  },
+  {
+   "familia": "Syne",
+   "motivo": "Muy repetida como display «creativa»"
+  },
+  {
+   "familia": "IBM Plex Sans",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "IBM Plex Serif",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "IBM Plex Mono",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "DM Sans",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "DM Serif Display",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "DM Serif Text",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "DM Mono",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "Outfit",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "Plus Jakarta Sans",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "Instrument Sans",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "Instrument Serif",
+   "motivo": "La serif en itálica del título de toda landing generada"
+  },
+  {
+   "familia": "Satoshi",
+   "motivo": "La «alternativa a Inter» que ya es igual de común"
+  },
+  {
+   "familia": "Cabinet Grotesk",
+   "motivo": "La «alternativa a Inter» que ya es igual de común"
+  },
+  {
+   "familia": "General Sans",
+   "motivo": "La «alternativa a Inter» que ya es igual de común"
+  },
+  {
+   "familia": "Clash Display",
+   "motivo": "La «alternativa a Inter» que ya es igual de común"
+  },
+  {
+   "familia": "Sora",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "Manrope",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "Urbanist",
+   "motivo": "Muy repetida en sitios generados"
+  },
+  {
+   "familia": "Figtree",
+   "motivo": "Muy repetida en sitios generados"
+  }
+ ],
+ "familias": {
+  "Alegreya": {
+   "categoria": "Serif",
+   "next": "Alegreya",
+   "por": "Juan Pablo del Peral, HT Fonts",
+   "wght": [
+    400,
+    900
+   ],
+   "argentina": true
+  },
+  "Alegreya Sans": {
+   "categoria": "Sans Serif",
+   "next": "Alegreya_Sans",
+   "por": "Juan Pablo del Peral, HT Fonts",
+   "pesos": [
+    100,
+    300,
+    400,
+    500,
+    700,
+    800,
+    900
+   ],
+   "argentina": true
+  },
+  "Archivo": {
+   "categoria": "Sans Serif",
+   "next": "Archivo",
+   "por": "Omnibus-Type",
+   "wght": [
+    100,
+    900
+   ],
+   "wdth": [
+    62,
+    125
+   ],
+   "argentina": true
+  },
+  "Atkinson Hyperlegible Next": {
+   "categoria": "Sans Serif",
+   "next": "Atkinson_Hyperlegible_Next",
+   "por": "Braille Institute, Applied Design Works, Elliott Scott, Megan Eiswerth, Letters From Sweden",
+   "wght": [
+    200,
+    800
+   ],
+   "argentina": false
+  },
+  "Barlow": {
+   "categoria": "Sans Serif",
+   "next": "Barlow",
+   "por": "Jeremy Tribby",
+   "pesos": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "argentina": false
+  },
+  "Barlow Condensed": {
+   "categoria": "Sans Serif",
+   "next": "Barlow_Condensed",
+   "por": "Jeremy Tribby",
+   "pesos": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "argentina": false
+  },
+  "Besley": {
+   "categoria": "Serif",
+   "next": "Besley",
+   "por": "Owen Earl",
+   "wght": [
+    400,
+    900
+   ],
+   "argentina": false
+  },
+  "Bitter": {
+   "categoria": "Serif",
+   "next": "Bitter",
+   "por": "Sol Matas",
+   "wght": [
+    100,
+    900
+   ],
+   "argentina": false
+  },
+  "Bricolage Grotesque": {
+   "categoria": "Sans Serif",
+   "next": "Bricolage_Grotesque",
+   "por": "Mathieu Triay",
+   "wght": [
+    200,
+    800
+   ],
+   "wdth": [
+    75,
+    100
+   ],
+   "argentina": false
+  },
+  "Chivo": {
+   "categoria": "Sans Serif",
+   "next": "Chivo",
+   "por": "Omnibus-Type",
+   "wght": [
+    100,
+    900
+   ],
+   "argentina": true
+  },
+  "Encode Sans": {
+   "categoria": "Sans Serif",
+   "next": "Encode_Sans",
+   "por": "Impallari Type, Andres Torresi, Jacques Le Bailly",
+   "wght": [
+    100,
+    900
+   ],
+   "wdth": [
+    75,
+    125
+   ],
+   "argentina": true
+  },
+  "Familjen Grotesk": {
+   "categoria": "Sans Serif",
+   "next": "Familjen_Grotesk",
+   "por": "Familjen STHLM AB",
+   "wght": [
+    400,
+    700
+   ],
+   "argentina": false
+  },
+  "Faustina": {
+   "categoria": "Serif",
+   "next": "Faustina",
+   "por": "Omnibus-Type",
+   "wght": [
+    300,
+    800
+   ],
+   "argentina": true
+  },
+  "Gabarito": {
+   "categoria": "Display",
+   "next": "Gabarito",
+   "por": "Naipe Foundry, Leandro Assis, Álvaro Franca, Felipe Casaprima",
+   "wght": [
+    400,
+    900
+   ],
+   "argentina": false
+  },
+  "Gloock": {
+   "categoria": "Serif",
+   "next": "Gloock",
+   "por": "Duarte Pinto",
+   "pesos": [
+    400
+   ],
+   "argentina": false
+  },
+  "Hanken Grotesk": {
+   "categoria": "Sans Serif",
+   "next": "Hanken_Grotesk",
+   "por": "Alfredo Marco Pradil, Hanken Design Co.",
+   "wght": [
+    100,
+    900
+   ],
+   "argentina": false
+  },
+  "Onest": {
+   "categoria": "Sans Serif",
+   "next": "Onest",
+   "por": "Dmitri Voloshin, Andrey Kudryavtsev",
+   "wght": [
+    100,
+    900
+   ],
+   "argentina": false
+  },
+  "Piazzolla": {
+   "categoria": "Serif",
+   "next": "Piazzolla",
+   "por": "Juan Pablo del Peral, HT Fonts",
+   "wght": [
+    100,
+    900
+   ],
+   "argentina": true
+  },
+  "Rethink Sans": {
+   "categoria": "Sans Serif",
+   "next": "Rethink_Sans",
+   "por": "Hans Thiessen",
+   "wght": [
+    400,
+    800
+   ],
+   "argentina": false
+  },
+  "Rosario": {
+   "categoria": "Sans Serif",
+   "next": "Rosario",
+   "por": "Omnibus-Type",
+   "wght": [
+    300,
+    700
+   ],
+   "argentina": true
+  },
+  "Schibsted Grotesk": {
+   "categoria": "Sans Serif",
+   "next": "Schibsted_Grotesk",
+   "por": "Bakken & Bæck, Henrik Kongsvoll",
+   "wght": [
+    400,
+    900
+   ],
+   "argentina": false
+  },
+  "Spectral": {
+   "categoria": "Serif",
+   "next": "Spectral",
+   "por": "Production Type",
+   "pesos": [
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800
+   ],
+   "argentina": false
+  },
+  "Unbounded": {
+   "categoria": "Sans Serif",
+   "next": "Unbounded",
+   "por": "NaN",
+   "wght": [
+    200,
+    900
+   ],
+   "argentina": false
+  },
+  "Young Serif": {
+   "categoria": "Serif",
+   "next": "Young_Serif",
+   "por": "Bastien Sozeau",
+   "pesos": [
+    400
+   ],
+   "argentina": false
+  }
+ },
+ "opciones": [
+  {
+   "id": "archivo-ancha",
+   "nombre": "Archivo",
+   "titulo": {
+    "familia": "Archivo",
+    "peso": 800,
+    "ancho": 125,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Archivo",
+    "peso": 400,
+    "ancho": 100
+   },
+   "caracter": "Contundente, de cartel",
+   "rubros": "construcción, deporte, eventos, industria, servicios",
+   "notas": "Una sola familia: el ancho hace de jerarquía. Probá títulos muy grandes."
+  },
+  {
+   "id": "chivo-firme",
+   "nombre": "Chivo",
+   "titulo": {
+    "familia": "Chivo",
+    "peso": 800,
+    "ancho": null,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Chivo",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Grotesca firme, con carácter",
+   "rubros": "estudios, consultoras, medios, comercios",
+   "notas": "Una sola familia. Rinde mucho en negrita pesada."
+  },
+  {
+   "id": "rosario-calida",
+   "nombre": "Rosario",
+   "titulo": {
+    "familia": "Rosario",
+    "peso": 700,
+    "ancho": null,
+    "tracking": "0"
+   },
+   "texto": {
+    "familia": "Rosario",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Humanista y cálida",
+   "rubros": "salud, educación, ONG, turismo, terapias",
+   "notas": "Una sola familia. Trazo humano, nada corporativo."
+  },
+  {
+   "id": "encode-tecnica",
+   "nombre": "Encode Sans",
+   "titulo": {
+    "familia": "Encode Sans",
+    "peso": 700,
+    "ancho": 112,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Encode Sans",
+    "peso": 400,
+    "ancho": 100
+   },
+   "caracter": "Técnica y ordenada",
+   "rubros": "ingeniería, tecnología, logística, profesionales",
+   "notas": "Una sola familia con varios anchos."
+  },
+  {
+   "id": "familjen-sobria",
+   "nombre": "Familjen Grotesk",
+   "titulo": {
+    "familia": "Familjen Grotesk",
+    "peso": 700,
+    "ancho": null,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Familjen Grotesk",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Sobria, con detalles raros",
+   "rubros": "arquitectura, diseño, galerías, profesionales",
+   "notas": "Una sola familia. Llega hasta peso 700."
+  },
+  {
+   "id": "schibsted-prensa",
+   "nombre": "Schibsted Grotesk",
+   "titulo": {
+    "familia": "Schibsted Grotesk",
+    "peso": 800,
+    "ancho": null,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Schibsted Grotesk",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Directa, de diario",
+   "rubros": "medios, abogados, consultoras, servicios",
+   "notas": "Una sola familia. Nació para un grupo de prensa."
+  },
+  {
+   "id": "bricolage-onda",
+   "nombre": "Bricolage Grotesque",
+   "titulo": {
+    "familia": "Bricolage Grotesque",
+    "peso": 700,
+    "ancho": null,
+    "tracking": "-0.02em"
+   },
+   "texto": {
+    "familia": "Bricolage Grotesque",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Con onda, un poco imperfecta",
+   "rubros": "gastronomía, cultura, marcas chicas",
+   "notas": "Una sola familia. Está subiendo en popularidad: no la uses en todos los proyectos."
+  },
+  {
+   "id": "hanken-legible",
+   "nombre": "Hanken Grotesk",
+   "titulo": {
+    "familia": "Hanken Grotesk",
+    "peso": 700,
+    "ancho": null,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Hanken Grotesk",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Neutra y muy legible",
+   "rubros": "cuando importa que se lea sin llamar la atención",
+   "notas": "Una sola familia. La opción tranquila: el carácter lo tiene que poner el resto del diseño."
+  },
+  {
+   "id": "atkinson-accesible",
+   "nombre": "Atkinson Hyperlegible",
+   "titulo": {
+    "familia": "Atkinson Hyperlegible Next",
+    "peso": 700,
+    "ancho": null,
+    "tracking": "0"
+   },
+   "texto": {
+    "familia": "Atkinson Hyperlegible Next",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "La más fácil de leer",
+   "rubros": "salud, adultos mayores, trámites, educación",
+   "notas": "Una sola familia. Diseñada por el Braille Institute para personas con baja visión."
+  },
+  {
+   "id": "gabarito-amable",
+   "nombre": "Gabarito",
+   "titulo": {
+    "familia": "Gabarito",
+    "peso": 800,
+    "ancho": null,
+    "tracking": "0"
+   },
+   "texto": {
+    "familia": "Gabarito",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Redonda y amable",
+   "rubros": "chicos, escuelas, mascotas, barrio",
+   "notas": "Una sola familia."
+  },
+  {
+   "id": "barlow-ruta",
+   "nombre": "Barlow",
+   "titulo": {
+    "familia": "Barlow Condensed",
+    "peso": 700,
+    "ancho": null,
+    "tracking": "0"
+   },
+   "texto": {
+    "familia": "Barlow",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Señalética de ruta",
+   "rubros": "talleres, transporte, gimnasios, oficios",
+   "notas": "Misma superfamilia. El título angosto entra grande también en el celular."
+  },
+  {
+   "id": "alegreya-literaria",
+   "nombre": "Alegreya",
+   "titulo": {
+    "familia": "Alegreya",
+    "peso": 800,
+    "ancho": null,
+    "tracking": "0"
+   },
+   "texto": {
+    "familia": "Alegreya Sans",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Literaria, hecha a mano",
+   "rubros": "hoteles, vinos, libros, turismo",
+   "notas": "Dos familias hermanas. Va contra el criterio de la casa: usala si el rubro lo pide."
+  },
+  {
+   "id": "piazzolla-expresiva",
+   "nombre": "Piazzolla + Rosario",
+   "titulo": {
+    "familia": "Piazzolla",
+    "peso": 800,
+    "ancho": null,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Rosario",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Expresiva, con filo",
+   "rubros": "cultura, música, teatro, vinos",
+   "notas": "Títulos con mucha personalidad, sobre todo en tamaños grandes."
+  },
+  {
+   "id": "bitter-honesta",
+   "nombre": "Bitter + Hanken",
+   "titulo": {
+    "familia": "Bitter",
+    "peso": 700,
+    "ancho": null,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Hanken Grotesk",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Slab honesta, de oficio",
+   "rubros": "panaderías, almacenes, oficios, cooperativas",
+   "notas": "Slab para títulos, sans neutra para leer."
+  },
+  {
+   "id": "young-artesanal",
+   "nombre": "Young Serif + Familjen",
+   "titulo": {
+    "familia": "Young Serif",
+    "peso": 400,
+    "ancho": null,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Familjen Grotesk",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Serif gorda, artesanal",
+   "rubros": "restaurantes, cafés, pastelería",
+   "notas": "Young Serif tiene un solo peso: solo para títulos."
+  },
+  {
+   "id": "gloock-elegante",
+   "nombre": "Gloock + Rethink",
+   "titulo": {
+    "familia": "Gloock",
+    "peso": 400,
+    "ancho": null,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Rethink Sans",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Elegante sin ser invitación",
+   "rubros": "moda, joyería, hotel boutique, estética",
+   "notas": "Alto contraste, un solo peso: solo títulos grandes, nunca chico."
+  },
+  {
+   "id": "besley-institucional",
+   "nombre": "Besley + Onest",
+   "titulo": {
+    "familia": "Besley",
+    "peso": 700,
+    "ancho": null,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Onest",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Clásica y seria",
+   "rubros": "abogados, escribanías, colegios, clubes",
+   "notas": "Clarendon clásica, con presencia sin ponerse solemne."
+  },
+  {
+   "id": "faustina-diario",
+   "nombre": "Faustina + Chivo",
+   "titulo": {
+    "familia": "Faustina",
+    "peso": 700,
+    "ancho": null,
+    "tracking": "-0.01em"
+   },
+   "texto": {
+    "familia": "Chivo",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Diario de provincia",
+   "rubros": "medios, ONG, estudios, política local",
+   "notas": "Títulos de diario con texto sans."
+  },
+  {
+   "id": "spectral-editorial",
+   "nombre": "Spectral + Archivo",
+   "titulo": {
+    "familia": "Spectral",
+    "peso": 600,
+    "ancho": null,
+    "tracking": "-0.005em"
+   },
+   "texto": {
+    "familia": "Archivo",
+    "peso": 400,
+    "ancho": 100
+   },
+   "caracter": "Editorial, de pantalla",
+   "rubros": "psicología, coaching, autores, consultorías",
+   "notas": "Serif pensada para leer en pantalla."
+  },
+  {
+   "id": "unbounded-fiesta",
+   "nombre": "Unbounded + Onest",
+   "titulo": {
+    "familia": "Unbounded",
+    "peso": 700,
+    "ancho": null,
+    "tracking": "-0.02em"
+   },
+   "texto": {
+    "familia": "Onest",
+    "peso": 400,
+    "ancho": null
+   },
+   "caracter": "Ancha y ruidosa",
+   "rubros": "música, eventos, marcas jóvenes",
+   "notas": "Muy ancha: títulos cortos o no entra en 375 px."
+  }
+ ]
+}

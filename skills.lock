@@ -1,0 +1,7 @@
+# Skills que usa /web-cliente, fijadas a la versión con la que se probó el pipeline.
+# nombre                repo                                  commit                                    carpeta                       licencia
+huashu-design           alchaincyf/huashu-design              4fc7bfdbd5ec3fa2d43ce7a6433de60976a5e4b1  .                             MIT
+ui-ux-pro-max           nextlevelbuilder/ui-ux-pro-max-skill  477bcb28c9812b385cb51a4605ddf30d7b2266e2  .claude/skills/ui-ux-pro-max  MIT
+design-taste-frontend   Leonxlnx/taste-skill                  3206dd44fce91412cbfd5b2dbead29fb29a91bb9  skills/taste-skill            MIT
+emil-design-eng         emilkowalski/skill                    ecf66bbd1fb33c25332b6b0e454d08049978284c  skills/emil-design-eng        MIT
+impeccable              pbakaus/impeccable                    b29942e5d98b3182d0346dd205f48fbd424fdbe8  .claude/skills/impeccable     Apache-2.0
