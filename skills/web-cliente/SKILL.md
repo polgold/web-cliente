@@ -50,6 +50,14 @@ Reglas para todo el pipeline:
   Deja una a 1440 y otra a 375. **Mirá cada captura** antes de darla por buena.
 - Frená y preguntá antes de cualquier cosa que tenga costo o se publique.
 
+## Subagentes
+
+- Investigación, recolección de datos y fotos, traducciones, extracción de chats,
+  descargas y módulos de código repetitivos: lanzalos con `model: "sonnet"`.
+- Las 3 direcciones visuales (paso 1), la elección de tipografías (paso 1b) y la
+  revisión final de diseño quedan en el modelo por defecto: ahí la calidad es lo
+  que se paga.
+
 ## 0 · Brief
 
 Si `BRIEF.md` ya tiene datos, no los vuelvas a preguntar. Preguntá con
